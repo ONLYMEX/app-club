@@ -1,0 +1,6 @@
+"Vamos a crear un nuevo evento para la cartelera del antro. Genera el código para un componente que incluya:
+
+    Datos: Nombre del artista/show, Hora (formato 24h), Precio por mesa y Cover (cuota de entrada).
+    Regla de Oro (Validación): El sistema DEBE bloquear o mostrar error si se intenta crear el evento en días que no sean Viernes o Sábado.
+    Integración: Incluye un botón de 'Reservar' que esté vinculado al mapa interactivo (drag & drop) para que el usuario elija su mesa.
+    Estilo: Dark mode, acentos neón, tipografía moderna. Código limpio y modular. Si falta algún dato, pregúntame antes de generar código falso."
